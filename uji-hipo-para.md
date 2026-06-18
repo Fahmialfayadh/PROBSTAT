@@ -1,5 +1,3 @@
-
-
 # Estimasi Parameter & Pengujian Hipotesis (1 & 2 Populasi)
 
 ---
